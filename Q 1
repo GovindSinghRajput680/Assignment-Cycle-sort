@@ -1,0 +1,1 @@
+if we have worst case then we'll need n-1 operation but TC will remain same which is O(n).
